@@ -2,7 +2,6 @@
 
 This repository contains code for a chat application built using the following web technologies:
 
-- [Redis](https://redis.io/)
 - [Node.js](https://nodejs.org/en/)
 - [Express.js](http://expressjs.com/)
 - [Socket.IO](http://socket.io/)
