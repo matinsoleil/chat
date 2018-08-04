@@ -1,4 +1,4 @@
-# Chat App with Redis + Node + Socket.io
+# Chat App  Node + Socket.io + Multi Room
 
 This repository contains code for a chat application built using the following web technologies:
 
